@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2020-03-25 16:10:08 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-03-23 00:58:55 +0100"
@@ -98,6 +104,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-03-23 00:58:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-03-25 16:10:08 +0100"
     },
     "done": true
   },
@@ -170,6 +182,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2020-03-24 23:15:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2020-03-25 16:10:08 +0100"
     },
     "done": true
   },
@@ -543,6 +561,7 @@
       "minecraft:spider": "2020-03-23 13:38:24 +0100",
       "minecraft:creeper": "2020-03-25 03:29:12 +0100",
       "minecraft:phantom": "2020-03-23 13:35:46 +0100",
+      "minecraft:cave_spider": "2020-03-25 16:23:01 +0100",
       "minecraft:enderman": "2020-03-25 03:28:24 +0100",
       "minecraft:zombie": "2020-03-23 01:18:32 +0100"
     },
@@ -937,6 +956,12 @@
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2020-03-23 13:58:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2020-03-25 16:10:08 +0100"
     },
     "done": true
   },
@@ -1879,6 +1904,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2020-03-25 16:10:08 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2020-03-23 01:04:06 +0100"
@@ -1942,6 +1973,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2020-03-23 13:58:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2020-03-25 16:10:08 +0100"
     },
     "done": true
   },
@@ -2044,6 +2081,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2020-03-23 13:58:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_spruce_planks": "2020-03-25 16:10:08 +0100"
     },
     "done": true
   },
@@ -2188,6 +2231,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-25 00:36:36 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2020-03-25 16:10:08 +0100"
     },
     "done": true
   },
@@ -2428,6 +2477,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2020-03-24 23:15:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2020-03-25 16:10:08 +0100"
     },
     "done": true
   },

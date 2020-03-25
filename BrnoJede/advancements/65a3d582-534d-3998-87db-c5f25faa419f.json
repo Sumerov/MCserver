@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2020-03-25 14:19:45 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-03-23 01:22:31 +0100"
@@ -92,6 +98,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-03-23 01:22:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-03-25 14:19:45 +0100"
     },
     "done": true
   },
@@ -170,6 +182,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2020-03-24 20:40:56 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2020-03-25 14:19:45 +0100"
     },
     "done": true
   },
@@ -536,6 +554,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2020-03-23 13:38:04 +0100",
+      "minecraft:zombie_pigman": "2020-03-25 15:01:27 +0100",
+      "minecraft:magma_cube": "2020-03-25 15:15:53 +0100",
       "minecraft:creeper": "2020-03-24 19:00:02 +0100",
       "minecraft:witch": "2020-03-24 00:32:22 +0100",
       "minecraft:stray": "2020-03-23 23:21:25 +0100",
@@ -935,6 +955,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2020-03-25 14:19:45 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2020-03-23 13:33:12 +0100"
@@ -1071,6 +1097,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2020-03-25 16:23:16 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2020-03-23 00:30:47 +0100"
@@ -1182,6 +1214,12 @@
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2020-03-24 20:54:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2020-03-25 15:02:08 +0100"
     },
     "done": true
   },
@@ -1431,6 +1469,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2020-03-25 14:32:33 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2020-03-23 00:59:25 +0100"
@@ -1497,10 +1541,12 @@
       "cooked_mutton": "2020-03-23 20:18:04 +0100",
       "sweet_berries": "2020-03-25 03:41:22 +0100",
       "cooked_beef": "2020-03-23 01:09:32 +0100",
+      "baked_potato": "2020-03-25 15:53:04 +0100",
       "apple": "2020-03-23 00:44:27 +0100",
       "cooked_rabbit": "2020-03-23 20:17:57 +0100",
       "cooked_chicken": "2020-03-23 13:36:41 +0100",
-      "cooked_salmon": "2020-03-24 20:14:50 +0100"
+      "cooked_salmon": "2020-03-24 20:14:50 +0100",
+      "carrot": "2020-03-25 16:10:35 +0100"
     },
     "done": false
   },
@@ -1847,6 +1893,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2020-03-25 14:19:45 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2020-03-23 01:04:28 +0100"
@@ -1916,6 +1968,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2020-03-23 13:54:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2020-03-25 14:19:45 +0100"
     },
     "done": true
   },
@@ -2027,6 +2085,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_spruce_planks": "2020-03-25 14:19:45 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2020-03-23 13:33:47 +0100"
@@ -2072,6 +2136,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2020-03-23 13:54:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2020-03-25 15:49:28 +0100"
     },
     "done": true
   },
@@ -2141,6 +2211,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2020-03-25 15:02:08 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2020-03-23 00:30:47 +0100"
@@ -2174,6 +2250,12 @@
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_core": "2020-03-25 03:33:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2020-03-25 14:19:45 +0100"
     },
     "done": true
   },
@@ -2423,6 +2505,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2020-03-25 14:19:45 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2020-03-23 00:41:17 +0100"
@@ -2474,6 +2562,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-03-24 22:11:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bonemeal": "2020-03-25 14:32:33 +0100"
     },
     "done": true
   },
