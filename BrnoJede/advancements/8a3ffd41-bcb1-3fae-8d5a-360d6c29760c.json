@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2020-03-27 17:22:54 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2020-03-23 14:03:43 +0100"
@@ -188,6 +194,15 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2020-03-23 00:43:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2020-03-27 17:26:22 +0100",
+      "diamond_helmet": "2020-03-27 17:26:22 +0100",
+      "diamond_chestplate": "2020-03-27 17:26:22 +0100",
+      "diamond_boots": "2020-03-27 17:26:22 +0100"
     },
     "done": true
   },
@@ -664,6 +679,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2020-03-27 17:36:52 +0100",
       "minecraft:skeleton": "2020-03-23 01:59:28 +0100",
       "minecraft:magma_cube": "2020-03-23 16:30:41 +0100",
       "minecraft:spider": "2020-03-23 13:38:24 +0100",
@@ -672,7 +688,8 @@
       "minecraft:phantom": "2020-03-23 13:35:46 +0100",
       "minecraft:cave_spider": "2020-03-25 16:23:01 +0100",
       "minecraft:enderman": "2020-03-25 03:28:24 +0100",
-      "minecraft:zombie": "2020-03-23 01:18:32 +0100"
+      "minecraft:zombie": "2020-03-23 01:18:32 +0100",
+      "minecraft:zombie_villager": "2020-03-27 13:03:36 +0100"
     },
     "done": false
   },
@@ -736,6 +753,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2020-03-27 17:22:54 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_red_flower": "2020-03-23 14:03:59 +0100"
@@ -765,6 +788,12 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2020-03-23 13:58:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2020-03-27 17:37:15 +0100"
     },
     "done": true
   },
@@ -1429,6 +1458,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2020-03-27 13:24:55 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_brick_block": "2020-03-23 14:07:32 +0100"
@@ -1654,6 +1689,12 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2020-03-23 00:20:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2020-03-27 17:48:23 +0100"
     },
     "done": true
   },
@@ -2295,6 +2336,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/whos_the_pillager_now": {
+    "criteria": {
+      "kill_pillager": "2020-03-27 17:36:52 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2020-03-23 00:48:55 +0100"
@@ -2340,6 +2387,12 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2020-03-23 14:14:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2020-03-27 17:38:27 +0100"
     },
     "done": true
   },
@@ -2466,6 +2519,12 @@
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-03-24 23:15:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_double_plant": "2020-03-27 13:23:48 +0100"
     },
     "done": true
   },
@@ -2712,6 +2771,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2020-03-23 00:49:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2020-03-27 17:38:07 +0100"
     },
     "done": true
   },
@@ -3000,6 +3065,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2020-03-23 00:45:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2020-03-27 17:22:54 +0100"
     },
     "done": true
   },
